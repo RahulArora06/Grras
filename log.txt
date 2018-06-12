@@ -1,0 +1,30 @@
+Thu Jun  7 22:01:04 2018 ....Application run by user 
+ Thu Jun  7 22:01:16 2018...... User with account number 1001 logged into account 
+Thu Jun  7 22:02:14 2018 ....Application run by user 
+ Thu Jun  7 22:02:27 2018...... User with account number 1001 logged into account 
+Thu Jun  7 22:02:49 2018 ....Application run by user 
+ Thu Jun  7 22:02:56 2018...... User with account number 1001 logged into account 
+Thu Jun  7 22:03:41 2018 ....Application run by user 
+ Thu Jun  7 22:03:49 2018...... User with account number 1001 logged into account 
+Thu Jun  7 22:03:55 2018 ....user with accont number 1001 withdrawl 5000.0 rupees
+ Thu Jun  7 22:04:04 2018 ....Application run by user 
+ Fri Jun  8 11:12:56 2018 ....Application run by user 
+ Fri Jun  8 12:44:41 2018 ....Application run by user 
+ Fri Jun  8 12:44:59 2018...... User with account number 1001 logged into account 
+Fri Jun  8 12:48:07 2018 ....Application run by user 
+ Fri Jun  8 12:48:15 2018...... User with account number 1001 logged into account 
+Fri Jun  8 12:48:24 2018 ....user with accont number 1001 Deposit 5000.0 rupees
+ Sun Jun 10 21:28:42 2018 ....Application run by user 
+ Sun Jun 10 21:28:47 2018 ....Application run by user 
+ Sun Jun 10 21:29:01 2018 ....Application run by user 
+ Sun Jun 10 21:43:51 2018 ....Application run by user 
+ Sun Jun 10 21:44:35 2018 ....Application run by user 
+ Sun Jun 10 21:45:01 2018 ....Application run by user 
+ Sun Jun 10 21:46:29 2018 ....Application run by user 
+ Sun Jun 10 21:47:35 2018 ....Application run by user 
+ Sun Jun 10 21:47:50 2018 ....Application run by user 
+ Sun Jun 10 21:51:34 2018 ....Application run by user 
+ Sun Jun 10 22:04:07 2018 ....Application run by user 
+ Sun Jun 10 22:05:21 2018 ....Application run by user 
+ Sun Jun 10 22:05:37 2018 ....Application run by user 
+ 
